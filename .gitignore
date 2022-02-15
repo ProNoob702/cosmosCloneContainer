@@ -305,3 +305,6 @@ __pycache__/
 
 # developer signing key for you, it’s a file called tempkey.jwk. You don’t have to check that file into your source control
 tempkey.jwk
+
+// settings json
+AppSettings.json
